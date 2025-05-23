@@ -1,0 +1,867 @@
+GİRİŞ
+Toplumsal, siyasal, teknolojik ve endüstriyel alanda hızlı değişmenin
+yaşandığı günümüzde insanoğlu, hızla tükenen kıt kaynaklan en rasyonel biçimde
+kullanma ve yönetme arayışı içinde, yeni kaynaklar yaratma, araçlar ve ilişkiler
+geliştirme çabasını sürdürmektedir. İnsanlık tarihinde yaşamda kalabilmenin
+koşulu olarak hep olagelen ve gelecekte de sürecek olan bu çaba, özünde insanın
+doğaya egemen olma ve varlığını koruma savaşının bir ürünü olmuştur. 21.
+yüzyıla girmeye dört yıl gibi kısa bir zaman kala; siyasal, ekonomik ve toplumsal
+olmak üzere her alanda büyük bir değişim yaşayarak bu yeni yüzyıla girme
+sancılarım çeken günümüz toplumu, tıpkı geçmiş yüzyıllarda yaşananlara benzer
+yeni toplumsal ilişkiler ve örgütlenme biçimine sahne olmaktadır. Bu benzerlik
+değişimin kendisinin geçirdiği evrelerde -eski doğruların hegemonyasının ortadan
+kalkması ve yeni doğruların kendini göstermesi, buna bağh olarak yeni ilişkiler
+ve kurumlar ve örgütlerin doğması vb- olmaktadır; yoksa değişimle bereber gelen
+ürünlerde değildir.
+İnsanlık tarihine kısa bir göz atıldığında bugüne kadar kaba bir tanımlama
+ile, ilkel toplum düzeninden tarım toplumuna, tarım toplumundan sanayi
+toplumuna geçişi yaşayarak ve nihayet tanımlayıcı terim olarak üzerinde henüz
+tam bir görüş birliğine varamadığımız sanayi ötesi toplum aşamasına gelinmiştir.
+Ancak farklı olgu, araç ve gelişmelerin damgasını vurduğu bu aşamaları,
+birbirinden kesin çizgilerle ayırmak güçtür. Nitekim her bir aşama bir önceki
+aşamanın doğurduğu alt yapı üzerinde yeşermiş ve varlık bulmuştur. Dolayısıyla
+her yeni aşama bir önceki aşamanın paradigmalarından bir kopuşu yaşayarak,
+kendi yeni paradigmalarım yaratmış ve bunlan egemen kılma araçlarını ve
+yollarını geliştirmiştir.
+Bu toplumsal aşamaları biçimlendiren ve damgasını vuran olgulara göz
+atıldığında, ilkel toplumdan tarım toplumuna geçişte daha fazla üretme arayışı
+içinde insanın fiziki gücünü desteklemek üzere ilk defa insan-makina işbirliğini
+doğuran mekanizasyon -tarımın kol gücü yerine basit mekanizmalarla çalışan alet
+ve araçlarla yapılması- dikkat çekerken, bu süreç içinde sanayi toplumunu, buhar
+gücünden yararlanarak üretimin otomatik gerçekleştirildiği montaj hattı ve
+2 : Bilgi Teknolojileri ve Örgütsel Değişim
+insanın fiziki gücünün tamamen yerine geçtiği makina, araç ve gereçlerle
+donatılmış fabrikaların temsil ettiği göze çarpmaktadır. Hızlı nüfus artışı ile
+birlikte sürekli artan ve çeşitlenen ihtiyaçları karşılamada insanın fiziki gücünün
+yanı sıra, zihinsel gücünü de desteklemek ve hatta onun yerine geçebilecek yeni
+araçlar geliştirme arayışı içinde varlık bulan bilgi teknolojileri -bilgisayar,
+iletişim, sistem ve metodolojiler- de, etkileri bugünden hissedilen sanayi ötesi
+toplumu biçimleyen temel faktör, olarak dikkat çekmektedir. Bu teknolojilerin
+üretim sürecine girmesiyle birlikte üretim ilişkileri ve örgütlenmesi de şekil
+değiştirmiştir. Bu açıklamalardan görüldüğü gibi, toplumsal aşamaları biçimlendiren temel olgu teknolojik gelişmeler ve bunların üretim süreciyle bütünleşmesi
+olmuştur. ........
+Nitekim, ilkel toplumdan tarım toplumuna geçişe tarım alanında başlayan
+mekanizasyon neden olurken; tarım toplumundan sanayi toplumuna geçişe, kitle
+üretime olanak tanıyan "Fordist üretim tarzı" temel oluşturmuştur. Öte yandan
+sürekli değişen dinamik bir toplumsal düzende, değişen ve çeşitlenen ihtiyaçları
+karşılamak üzere, üretimin bilgi teknolojileri (ki bu teknolojiler grup teknolojilerinin, CAD, CAM ve FMS'lerin doğmasına neden olmuştur) yardımıyla dünya
+ölçeğinde gerçekleştirilip dağıtımına olanak sağladığı "esnek üretim" ve " esnek
+uzmanlaşma", sanayi ötesi topluma geçişin temel simgesi olmuştur. Günümüzde
+bu yeni dönem, sözedilen gelişmeyi tanımlamak üzere "Post-Fordist" dönem
+olarak adlandırılmaktadır.
+Üretim sürecinde yaşanan bu gelişmelere paralel olarak değişim, örgüt ve
+yönetim anlayışında kendini göstermiştir. Taylorizmle simgeleşen dönemde
+örgütlere birer makina olarak bakılmış ve örgütler bir kez en iyi şekilde kurulduğunda, tıpkı makinalar gibi kendiliğinden işleyeceği savunulmuştur.
+İnsan-sistem İkilisinde seçimini sistemden yana yapan makina örgüt anlayışı,
+ağırlıklı olarak tek düze çalışma ortamının geçerli olduğu sanayi toplumu
+döneminde egemen bir yaklaşım olarak varlık bulmuştur1. Öte yandan bu
+dönemde geçerli olan sistem yaklaşımının sonucu olarak, kapalı makina
+örgütlerin başarısızlığından yola çıkılarak, örgütlere birer canlı sistem olarak
+yaklaşan organik örgüt anlayışının varlık bulduğunu görmekteyiz. Birbirlerine
+zıt olan bu yaklaşımlardan organik paradigma, makina örgüt anlayışının tersine
+insan-sistem İkilisinden tercihini, insandan yana yapmıştır. Sanayi toplumu
+örgütlerini açıklamada kullanılan kuramlar arasında sistem yaklaşımı
+kuranımdan başka, 1970'li yıllarda yeşeren durumsallık yaklaşımı2, örgütsel
+1 Selami Sargut, "Bürokrasinin Türkiye'deki Darboğazı: Ulusal K ültür-M akina Ö rgiit U zlaşm azlığı", K am u
+Y önetim i Disiplini Sem pozyum u B ildirileri, Türkiye ve Orta Doğu Amme İdaresi Enstitüsü, Uluslararası
+Yönetim Bilimleri Enstitüsü Ulusal Seksiyonu, Cilt 1, Kasım 1995, Ankara, s. 121-141.
+1 P.R. Lawrence ve J.W. Lorch, O rganization and E nvironm ent, Homewood, Irwin., 1969.
+Giriş 3
+ekoloji3, kurumsallaşma4, kaynak bağımlılığı5 ve örgütsel kültür6 kuramları ilk
+akla gelen örnekleri oluşturmaktadır.
+Günümüzde artık çoğunlukla sanayi toplumu döneminin gerçeklerine dayalı
+olarak geliştirilen bu kuramlar, karmaşıklığın ve dinamizmin doruklara ulaştığı
+sanayi ötesi toplum örgütleri için geçerliliğini kaybetmektedir. Nitekim bu yeni
+dönemin özelliği gereği, çok yönlülük ve karmaşıklığın bir arada bulunması
+nedeniyle, yukarıda örnekleri verilen tek bir paradigmanın hegemonyasındaki
+kuramların geçerliliğinin kaybolduğu, örgüt ve yönetim olgularım açıklamada
+çok paradigmalılığın ve bunların nasıl bir arada uzlaşabileceklerinin tartışılmaya
+başlandığım görmekteyiz.7 Yazında bu tartışmayı yapan yazarlara ömek olarak
+N.Jackson ve P.Carter, J.Hassard, M.Reed ve C.Perrow verilebilir.8
+Bu tartışmalar yapıladursun, bugün Post-Fordist üretim ilişkilerinin geçerli
+olduğu yeni toplumsal* aşamaya gözler çevrildiğinde, bu topluma damgasını
+vuran mikro işleyicilerin gerek toplumsal, gerek örgütsel değişimi de beraberinde
+getirmektedir. Nitekim bir örgütsel kaynak olarak ön plana çıkan "bilgi" ve bu
+kaynağı yaratan ve yöneten teknolojilerin -bilgi teknolojilerinin- toplumun her
+alanında -bu düzlemde yer alan örgütlerde- yaygın kullanım alanı bulmasıyla
+birlikte, toplumsal ve örgütsel değişimi harekete geçirdiğine tanık olmaktayız.
+İşte bu noktadan hareketle, genelde; örgütleri derinden etkileyen bilgi
+teknolojilerinin örgütlere yönetsel amaçlar için hangi aşamalardan geçerek
+girdiğini görmek, bu süreç içinde bilgi teknolojilerinin gerek örgütsel yapılan,
+gerek yönetsel süreçleri nasıl etkilediğini irdelemek; özelde ise ülkemiz
+örgütlerinin bu teknolojileri yönetim alanında hangi düzeyde kullandıklan ve bu
+teknolojilerin kullanımı ile yaşadıklan değişimi tespit etmek ve incelemek, bu
+çalışmanın temel sorun alanım oluşturmuştur.
+3 M.T.Hanna ve J. Freeman, The Population Ecology o f Organizations", A m erican Jo n m a l o f Sociology,
+V ol.82,1977, s.929-964.
+4 J.W. Meyer ve B. Rowan, 'Institutionalized Organizations: Formal Structures as Myth and Reality",
+A m erican J o u rn a l o f Sociology, 1977, Vol.83., s.340-363.
+3 J. Pfeffer, ve G.R. Salancik, T he E x te rn al C o n tro l o f O rganizations, Newyork, Harper and Row, 1978.
+‘ A. Pettigrew, " On Studying Organizational Cultures", A dm inistrative Science Q uarterly, Vol.24, 1979, s.
+570-581.
+7 Nitekim ülkemizde de B. Üsdiken, 13-14 Ekim 1994 tarihleri arasında TODAİE tarafından düzenlenen Kamu
+Yönetimi Disiplini Sempozyumun'da "Örgüt Kuramında Yeni Yol Ayırımları: Kuzey Amerika, Avrupa ve
+Türkiye " başlıklı bildirisiyle yaptığı sunumda bu tartışmaya değinmiştir.
+* Bu tartışmalar hakkında bilgi için şu kaynaklara başvurulabilir: J. Hassard, "Multiple Paradigms and
+Organizational Analysis : A Case Study", O rganization Studies, Vol.12, s. 275-299; REED, M. Rethinking
+O rganization, Sage Pub., London, 1992.
+4 Bilgi Teknolojileri ve Örgütsel Değişim
+Ülkemiz örgütlerinin özellikle, 1980'li yılların ortalarından bu yana yoğun
+olarak bilgi teknolojilerine yatırımlara giderek, yönetim alanında bu teknolojilerden yararlanmaya başladıkları ve bu teknolojilerin henüz başlangıç düzeyinde
+olsa da kimi örgütsel değişimlerin ip uçlarım vermeye başladığı varsayımından
+yola çıkılarak yapılan bu çalışma, dört bölümde yürütülecektir. Bunlardan birinci
+ve ikinci bölüm, daha çok konuyla ilgili yapılan yazın taramasıyla elde edilen
+bilgiler temelinde; üçüncü ve dördüncü bölüm bu kaynaklardan elde edilen
+bilgiler ışığında, ülkemiz örgütleri üzerinde yapılan araştırma sonuçlarına dayalı
+olarak işlenecektir.
+Birinci bölümde; toplumsal gelişme aşamalarına, bilgi ve yönetimine, bilgi
+teknolojileri (BT) alanındaki geüşmelere ve bu teknolojilerin örgütlere sundukları
+olanaklara yer verilecektir. Dört başlık altmda ele alınan bu bölümde; öncelikle
+toplumlann geçirdiği aşamalara kısaca değinilerek, bugün ulaşılan aşamaya
+hangi deneyim ve birikimlerle gelindiği ortaya konulacaktır. Sonra, yeni aşamada
+önem kazanan bilgi kavramı ve bu kaynağı işleme ve yönetme süreçleri ile örgütlerin bilgi işlem performansını değerlendirme konulan ele alınacaktır. Son
+olarak, bu yeni aşamanın araçlan olan bilgi teknolojileri ve sistemlerinin temel
+unsurlan ile, bu teknolojilerin örgütlere sunduklan olanaklardan söz edilecektir.
+İkinci bölümde; yönetim destek sistemleri başlığı altmda, en temel
+yönetsel düzeydeki ihtiyaçlara yanıt veren veri işleme sisteminden başlayıp,
+yönetime rapor sunma ve kimi rutin olmayan kararlan almaya varıncaya kadar
+destek sunan bilgi sistemlerini geliştirme modellerine, uygulama alanlarına ve bu
+sistemlerin; planlama, kontrol ve karar almadan oluşan yönetim işlevleriyle olan
+ilişkilerine yer verilecektir.
+Üçüncü bölüm, ülkemizde faaliyet gösteren kuruluşlarda önceki bölümlerde ele alman bilgi teknolojileri ve yönetim destek sistemlerinin, yönetim
+alanında kullanım düzeyinin tespiti amacıyla yapılan araştırma ve sonuçlarına
+ayrılmıştır. Araştırma kapsamına, Interpro tarafından 1994 yılı itibarıyla toplam
+donanım değerleri bakımından" İlk 100 Bilgisayar Kullanıcı Kuruluş" olarak
+tespit edilen kuruluşlar alınmıştır. Araştırmada tarafımdan geliştirilen anket
+formu9 kullanılmıştır. Toplam 83 kuruluşun yanıtladığı bu formla elde edilen
+veriler, SPSS (Statistical Packages for Social Science) paket programı ile
+değerlendirilerek raporlaştınlmıştır. Burada önce araştırma kapsamında ele
+alman problemler, araştırmanın amacı, önemi, varsayımları, sınırlılıkları ve
+yöntemi üzerinde durulacaktır. Daha sonra, bulgular ve yorum başlığı altmda;
+araştırmaya katılan kuruluşların faaliyet alanları, bilişim personel durumu, BT'ne
+yaptıkları yatırımlar, kullandıkları bilgisayar sistemleri ve iletişim ağlarının yer
+aldığı genel bilgilere yer verilecek ve bu kuruluşlarda yönetim destek sistemlerini
+9 EK-2.
+Giriş 5
+kurma ve kullanma ile, bunları yönetim işlevleri ve yönetsel işlerde kullanma
+düzeyleri incelenecektir.
+Örgütlerde değişim, teknolojik gelişmelere koşut olarak kapasite ve yetenekleri hızla artan BT'nin örgütlerde her alanda kullanılmasıyla birlikte, kendini
+göstermeye başlamıştır. Değişim kendini öncelikle bilgisayar destekli makinalann
+insangücü yerine ikame edilmesiyle işsizlik yaratma şeklinde göstermiş, zamanla
+bu işlerin kapsamım ve gereksinim duyulan personelin niteliklerini etkilemiştir.
+Bilgi teknolojileriyle ortaya çıkan değişimin dinamiklerini incelemek ve buradan
+elde edilen ipuçlarını değerlendirerek düzeltici kimi önlemleri zamanında almak,
+örgütlerin uzun soluklu olması için kaçınılmazdır, işte çalışmanın dördüncü
+bölümü bu ihtiyaçtan doğmuştur. Burada önce BT'nin örgüt yapılan, yönetim
+süreçleri, iş ve personel üzerine etkileri üzerinde durulacak, ardından bu bilgiler
+ışığında bilgi teknolojilerini yoğun olarak kullanmaya başlayan ülkemiz ticari
+banka örgütlerindeki değişim ele alınacaktır. Çalışmada bilgi teknolojilerinin
+örgütler üzerine etkilerini tespit etmek üzere, ticari banka örgütlerinin seçilme
+nedeni, ülkemizde bilgi teknolojilerine yoğun yatırım yapan ve yönetsel işlerinde
+ağırlıklı olarak kullanan sektörün bankalar olmasıdır. Nitekim bankalar, Interpro
+tarafından her yıl yapılan Türkiye'nin "İlk 100 Bilgisayar Kullanıcısı"
+sıralamasında ön sıralarda yer almaktadır.
+Bu araştırmada iki kaynaktan yararlanılmıştır. Bunlardan birincisi, 1994 yılı
+itibarıyla sahip oldukları toplam donanım değerlerine göre ilk 100 bilgisayar
+kullanıcısı sıralamasında önde gelen ve bu kuruluşlar üzerinde yaptığım araştırmada yönetim işlevlerinde BT'ni yoğun olarak kullandıklarım tespit ettiğim
+bankalarla bizzat yaptığım görüşmelerdir10. Bankaların örgütsel değişimden
+sorumlu organizasyon metod bölümü yöneticileri, BT yönetiminden sorumlu
+BÎM ve BT'ni yoğun olarak kullanan diğer bölüm (krediler gibi) yöneticileriyle
+görüşmeler yapılmıştır. İkincisi ise; yazmda yer alan konuyla ilgili daha önce
+yapılmış araştırmalar ve incelemelerdir. Her iki kaynaktan elde edilen bulgular
+birlikte değerlendirilerek, BT'nin Türkiye'de faaliyet gösteren ticari bankaların
+örgüt yapılarım ve yönetim süreçlerini nasıl etkilediğine ilişkin ipuçları elde
+edilmeye çalışılacaktır. Ancak genel eğilimleri ortaya koyan bu ip uçlarının kalın
+çizgiler olarak kendini göstermesi için bilgisayarlaşma açısından zamana ve bu
+konuda daha çok ilerlemeye gereksinim bulunmaktadır. Çalışmanın son bölümü
+ise, bu aşamaya kadar ulaşılan sonuçlara ve bunların değerlendirilmesine
+ayrılmıştır.
+10 Yapı ve Kredi Bankası, İş Bankası, Vakıflar Bankası çalışmanın üçüncü bölümünde yer verilen alan
+araştırmasında BT'ni yönetsel açıdan yoğun kullanan bankalar olarak tesbit esilmiştir. Bu niteliklerinden dolayı
+adı geçen banka yetkilileriyle BT'nin banka örgütlerinde gündeme getirdiği değişimi tesbit etmek üzere görüşme
+yapmaya karar verilmiştir. Konuyla ilgili önceden hazırlanan temel başlıklar çerçevesinde bu bankaların başta
+BÎM yöneticileri olmak üzere, haberleşme, organizasyon-metod, personel ve insan kaynaklan ile kredi bölümü
+yöneticileriyle görüşmeler yapılmıştır.
+6 Bilgi Teknolojileri ve Örgütsel Değişim
+Bu çalışmada yapılan araştırma ve incelemelerin, sanayi ötesi toplumunubilgi toplumunu- biçimlendiren bilgi teknolojilerinin örgütlere sundukları olanaklardan ve harekete geçirdikleri değişimin izlerinden yola çıkarak, bu yeni
+aşamada yer alacak örgütleri anlama ve açıklamada kullanılabilecek yeni
+paradigma ve kuramların geliştirilmesine bir nebze de olsa ışık tutacak verileri
+sağlaması ümit edilmektedir.
+BİRİNCİ BÖLÜM
+BİLGİ TOPLUMU VE ÖRGÜTLERDE BİLGİ TEKNOLOJİLERİ
+Yirmi birinci yüzyılın eşiğinde bulunan günümüz toplumu, bugüne kadar
+bilim ve teknoloji alanında ulaşılan gelişmelere paralel olarak; ilkel toplum, tarım
+toplumu ve nihayet gelişiminin doruğunda olan sanayi toplumu aşamalarından
+geçerek, bir başka yeni aşamanın sancılarım yaşamaktadır. Sözü edilen her
+aşama, kendine özgü teori ve ilkeleriyle biçimlenen toplumsal kurum ve
+uygulamalara sahne olmuş ve olmaya devam etmektedir. Tüm bu aşamaları
+ortaya çıkaran, biçimleyen, derinden etkileyen ve ortadan kaldıran temel
+faktörün, bilim ve teknoloji ile bu alanda yaşanan gelişmelerin olduğu görülür.
+Nitekim ilkel toplumdan taran toplumuna ve tarım toplumundan sanayi toplumuna geçişte, üretim teknolojisi alanında ulaşılan makinalaşmamn önemi büyüktür.
+Bugün ise ileri sanayi toplumundan, sanayi ötesi aşamaya geçişte vazgeçilmez ve
+tükenmez bir kaynak olarak önem kazanan bilginin elde edilmesi, işlenmesi ve
+yönetilmesinde ulaşılan bilgi teknolojileri belirleyici rol oynamaktadır. Öyle ki
+artık bilginin ve bilgi teknolojilerinin vazgeçilmez olduğu bu yeni toplumsal
+aşama, bilgi toplumu olarak adlandırılır olmuştur.
+Bu yeni toplumsal aşama, ister "bilgi toplumu", ister "sanayi ötesi
+toplum ", isterse "postm odernist toplum " olarak adlandırılsın; kabul edilen bir
+gerçek var ki, yeni toplumsal aşamanın kendine özgü kurumlan ve ilkeleri bulunduğu ve artık eski kural ve ilkelerin geçerliliğini kaybettiğidir. Bu yeni aşamayı
+biçimleyen faktörler olarak ileri sürülen "bilgi" ve "bilgi teknolojileri" ve
+bunların sunduğu olanaklar hakkında bilgi sahibi olmak, yeni toplum düzeni
+içinde varlık gösterecek örgütlerin tasarlanması, yönetilmesi ve faaliyetlerinin
+sürdürülmesine önemli katkı da bulunacaktır.
+8 Bilgi Teknolojileri ve Örgütsel Değişim
+A. BİLG İ TOPLUM UNA GEÇİŞ
+İnsanlık günümüze kadar kendine özgü karakteristikler taşıyan farklı
+toplumsal aşamalar geçirmiştir. Bunlar sırasıyla doğa ve avlanmaya dayalı
+"ilkel toplum ", arkasından, "tarım toplum u", buhar gücünün sanayide
+kullanılması ile başlayan "sanayi-endüstri toplum u" ve nihayet bilginin bir
+kaynak olarak ön plana çıkması ile ve bu kaynağı işleme ve yönetmede kullanılan
+teknolojideki gelişmeler neticesinde yaşanmaya başlanan "sanayi ötesi toplum ",
+genel kabul görmüş deyimiyle, "bilgi toplumu"dur. Orta çağda insanlığın büyük
+bölümü, ilk çağların göçebe yapısından ayrılarak, yerleşik tarım uygarlığı içinde
+yaşamlarım sürdürmeye başladı. 18.ve 19.yüzyılda Sanayi Devrimi'ni gerçekleştiren toplumlar, sanayileşmiş ülkeler sınıfında yer ahrken; bu değişime siyasal,
+ekonomik ve hukuki yapılarıyla uyum sağlamayan toplumlar, gelişmemiş ya da
+gelişmekte olan ülkeler olarak adlandırıldı. Bugün Sanayi Devrimi'nin öncüleri
+olan ülkeler, teknolojik gelişmelerin sundukları olanakları en etkili biçimde kullanabilmelerinin sonucu olarak, ileri sanayi toplumu uygarlığını aşmaktadırlar.
+Alvin Toffler'in deyimiyle, ikinci dalga toplumunu oluşturan bu ülkeler, üçüncü
+dalga uygarlığını yaşamaya adım atmışlardır.1 Günümüze kadar insanlık
+tarihinde yaşanan gelişmelerin seyrine bakacak olursak, yerleşik tarım düzenine
+geçişin ancak bin yalda gerçekleştiğini, buna karşın, tarım toplumundan sanayi
+toplumuna geçişin yalnızca üç yüzyılda gerçekleştiğini görürüz. Bugün toplumsal
+gelişmelerin seyri oldukça hızlanmıştır. Nitekim bu yeni uygarhğa geçişin çok
+daha kısa süre içinde olacağı beklenmektedir.
+Sanayi ötesi toplumlar olarak adlandırılan üçüncü dalga toplumlannı büyük
+bir kitle, artık günümüzde toplumlan derinden etkileyen ve biçimlendiren bilgi ve
+bunu işleyen teknolojide ulaşılan ileri aşama nedeniyle "bilgi toplumu" olarak
+adlandırmaktadır. Her ne kadar bugün, uygarlığın ulaştığı düzeyi adlandırma
+üzerinde henüz tam bir fikir birliğine varılmış değilse de, yeni uygarlığı
+betimlemek üzere kimileri "uzay çağı", kimileri ise "elektronik çağ"dan sözetmektedir. Ancak, özellikle 20. yüzyılın son çeyreğine damgasını vuran ileri bilgi
+teknolojileri ve bunların toplumsal ve ekonomik gelişmeye sundukları olanaklar,
+Toffler'in üçüncü dalga olarak betimlediği uygarlığın "bilgi toplumu" ya da
+ülkemizde kimi yazarların benimsediği şekilde, "bilişim toplumu" olarak
+adlandırılmasının isabetli bir tanım olduğunu göstermektedir. Bugün işleyiş
+biçimi, kurumlan, normlanyla ikinci dalga olarak adlandırılan sanayi toplumundan oldukça farklı niteliğe sahip olan bu uygarlık, nasıl adlandınlırsa
+adlandırılsın, yapışım belirleyen bir takım özellikleri bünyesinde taşımaktadır. Bu
+çalışmada, günümüzde ulaşılan uygarlık düzeyinin bilgi toplumu terimi ile
+1 Alvin Toffler, (Çev. Ali Seden) Ü çüncü Dalga, Bilimsel Sorunlar Dizisi, Altın Kitaplar, 1981.
+Bilgi Toplumu ve Örgütlerde Bilgi Teknolojileri 9
+betimlenmesi benimsenmiştir. Bilgi toplumu, bilgi üretimi ve etkdeşiminin olduğu
+toplum olarak düşünülmektedir. İlerleyen bölümlerde bu topluma geçişte yaşanan
+değişimler ve genel olarak bu toplumun temel özellikleri üzerinde durulacaktır.
+1. TARIM TOPLUMUNDAN SANAYİ TOPLUMUNA
+Toffler'in birinci dalga olarak betimlediği tarım toplumunun egemen olduğu
+dünyada insanlar, ilkel ve uygar olarak ayrılmaktaydı. İlkel olarak adlandırılan
+insanlar kabileler halinde yaşayan, avlanma ve meyve toplama suretiyle yaşamlarım sürdürme çabasmda olan ve dolayısıyla tarım devrimi ile karşılaşmamış
+kişilerdi. Uygar olarak adlandırılan toplumda ise, insanlar yerleşik düzende
+tarımla uğraşmakta ve geçimlerim toprağı işlemek suretiyle sağlamaktaydı. Bu
+toplumlarda ekonominin, aile yapısının ve kültürün temelinde "toprak" bulunmaktaydı. Temelde merkeziyetçi olmayan ekonomik yapı içinde, her topluluk
+kendi ihtiyaçlarım karşılayabilmekteydi. MÖ 8000 yıllarında başlayan ve
+yaklaşık olarak 1750'lere kadar süren tarım toplumunda basit bir iş bölümü
+bulunmaktaydı2. Sınırları oldukça belirli olan toplumsal sınıflan; soylular, din
+adamlan, savaşçılar ve köleler oluşturmaktaydı. Sanayi toplumu işte bu niteliklere sahip bir dünyada varlık göstermeye başladı. Kitle halinde üretimlerin
+yapıldığı büyük fabrikalar, tarlaları sürmek üzere geliştirilen traktörler, bürolardaki daktilo makineleri ve hayatı kolaylaştıran diğer pek çok alet, araç ve gereç
+sanayi toplumunun yarattığı ürünler olarak karşımıza çıkmıştır3. Bu getirileri ile
+sanayi toplumu dünyaya en etkili damgasını vuran dalga olmuştur.
+Tarım toplumundan sanayi toplumuna geçerken insanlığın yaşadığı değişme,
+yenilenme ve dönüşüm süreci, günümüzde bilgi teknolojilerindeki hızlı gelişmelerle varlık bulan bilgi toplumuna dönüşümde de oldukça kapsandı ve derin
+yaşanmaktadır. Bilgi teknolojileri insanlığa yeni fırsatlar yaratırken, toplumun
+yapısını da şekillendirmektedir. Elbette bu toplum içinde faaliyet gösteren ve
+yaşama savaşı veren örgütler ve bireyler de bu değişime ve yenilenme sürecine
+doğrudan maruz kalmaktadırlar. Bilgi toplumunun gerektirdiği yapısal ve köklü
+değişimleri yapabilmek, örgütler için yaşamsal bir zorunluluk olarak ortaya
+çıkmaktadır. Sanayi toplumu, teknolojik gelişmelerin ekonomiye ve üretim
+sürecine girmesiyle, tarıma dayah geleneksel toplum yapısının çözülmesiyle
+doğmuştur. Bu değişim sürecinde ortaya çıkan yeni sosyal yapdan ve yeni
+durundan şöyle özetleyebiliriz:
+2 a .k , s.33.
+3 a . t , s.45.
+10 Bilgi Teknolojileri ve Örgütsel Değişim
+- Evlerde ve el tezgahlarında yürütülen üretim fabrikalarda yapılır oldu.
+Böylece konut ve işyeri birbirinden ayrıldı. Bu durum evden işe, işten eve yoğun
+bir trafik akışına neden olmuştur.
+- Fabrikalarda yürütülen kitle üretim, kent yapısını ve kentleşmeyi değiştirmiştir. Geniş olan aile yapısı kan, koca ve çocuklardan oluşan çekirdek yapıya
+dönüşmüştür.
+- Tarım toplumunda serf olan köylüler, sanayi toplumunda endüstri işçisi
+olmuştur. Toprak sahibi olan aristokratlar ise sanayi toplumunun buıjuvazileri
+olarak toplumun üst ve saygın sosyal kesiminde yer almışlardır.
+- Sanayi toplumunda tanm toplumunun tüm kurumlan yenilenmiş ve bunlara yenileri eklenmiştir. Gerek kurumlar, gerek bireyler için akılcı davranışlar
+ön plana geçmiştir. Bunun sonucu olarak işbölümü, ekonominin vazgeçilmez
+unsuru olmuştur. Yeni teknolojilerin üretimde kullanılması ve işbölümü kitle
+üretimlere olanak sağlayarak sürekli olarak üretim artışına neden olmuştur.Bu
+durum ülkeleri, gerek üretime girdi olan hammaddelere ulaşma, gerekse çok
+büyük hacimlerde üretilen ürünleri pazarlamak üzere, yeni pazar arayışlarına
+zorlamıştır.
+- Sanayi toplumuna geçildiğinde, taran toplumunda yüzde 80'lere varan
+tarımsal üretim, yerini sanayi ürünlerine bırakmıştır. Öyle ki bu dönemlerde,
+tarımsal ürünlerin payının yüzde 5'lere kadar düştüğü görülmüştür. Sanayi töplumunun başlangıcında gıda ve tekstil gibi temel ürünlerle ilgili sektörlerde önemli
+geüşmeler sağlanırken, sonraları demir çelik, kimya, otomobil ve uçak gibi ara ye
+yatırım mallan sanayi ağırlıkla gelişmeye başlamıştır.
+Sanayi toplumu yukanda belirtilen gelişmelerin sonucunda teknolojisi, ekonomisi ve sosyal yapısı ile öncülü olan tarım toplumundan oldukça farklı yeni bir
+toplum yaratmıştır. Dinamik özellik taşıyan bu yapı sürekli olarak gelişmekte ve
+değişime uğramaktadır. Tarım ve sanayi toplumunun genel yapışım ortaya koyan
+özellikler Tablo l'de özetlenmiştir.
+2. SANAYİ TOPLUMUNDAN BİLGİ TOPLUMUNA
+21.yüzyıla geçişe çok az zaman kala, insanlık bugün sanayi devrimi ile
+yaşanan köklü değişim ve dönüşüme benzer bir süreci yaşamaktadır. Başlangıcı
+20.yüzyılın son çeyreğine rastlayan bu dönüşümde yeni toplum düzeninde yer
+alacak kurumlar ve yapılan bugünden kısmen belirginleşmiştir. Yeni toplum
+yapısı ve işleyişinin nasıl olacağı konusunda, pek çok araştırmacı ve fütürist,
+düşünceler üretmekte ve çeşitli kestirimlerde bulunmaktadır. Tüm bu araştırmacıların üzerinde hem fikir olduklan gerçek, artık sanayi toplumunun
+doğurduğu kurum, norm ve kuramların bugün sürekli değişen toplumsal yapıya
+Bilgi Toplumu ve Örgütlerde Bilgi Teknolojileri 11
+uymadığı ve bu yeni durumlara uygun yapı ve kuramların geliştirilmesi
+gerektiğidir. Buradan hareketle, bugünün toplumsal yapışım biçimlendirmeye
+yönelik yeni olguların ortaya atıldığı görülmektedir.
+Peter Druker'a göre günümüzde en büyük değişme, "devlet anlayışı ya da
+ekonomi biliminde" olmayıp, özellikle kapitalist toplumlann sanayi toplumundan
+bilgi toplumuna geçmesinde olmaktadır. O'na göre bu değişim; bilgi işçiliğine
+geçiş, bilgi ve eğitime olan yöneliş, bilginin hızla ekonominin temeli ve gerçek
+sermayesi haline gelmesi, örgütlerin bilgiye dayah kuruluşlara dönüşmesi, bilgi
+işçilerinin toplumun değer ve normlarım belirleyen gruplar olması gibi niteliklere
+sahiptir.4 Değişimin ana hatları olarak sayılan bu niteliklerin hepsinde ortak bir
+kavrama "bilgi"ye dayamldığı görülür. Geleceğin toplumlanm ve dolayısıyla bu
+toplumda yer alan örgütleri ve bireyleri doğrudan etkileyen bilgi olgusu ilerleyen
+bölümde detaylı olarak incelenecektir.
+Tablo 1: Tanın ve Sanayi Toplumunun Yapısını Belirleyen Özellikler
+Tarım Toplumu Sanayi Toplumu
+Eneıji İhsan/hayvan gücü, su, rüzgar
+(Yenilenebüen)
+Kömür, gaz, petrol
+(fosile dayah yenilenemeyen)
+Teknoloji Vinç, kaldıraç, pres (kas gücüne
+dayalı)
+Montaj hattı, fabrikalar
+(işiten, duyan, dokunan
+makineler)
+Aile Yapısı Toprağa bağlı geniş aile Fabrikalarda çalışan çekirdek aüe
+Eğitim Yok denecek kadar az Çok önemli
+Kurumsallaşma Yok Tüzel kişilik, sınırlı sorumluluk
+geliştirilmiş
+İletişim Basit bilgi alış-verişi (söz-işaret) Kitle iletişim araçları
+KAYNAK: Yazar Alvin Toffler'in Üçüncü Dalga adlı kitabından yararlanılarak düzenlemiştir.
+Bilginin önem kazandığı ve bilgi teknolojilerinin bu yeni toplumsal yapıyı
+biçimlendirmede itici rol üstlendiği sanayi ötesi toplumu tanımlayan açıklamalar
+üzerinde durmak, bilgi toplumunun neyi ifade ettiğim anlamada yararlı olacaktır.
+Bilgi toplumu, her şeyden önce bilgiye değer veren, kullanmasını bilen ve bilgi
+üretebilen toplumdur. Bu toplum bilgi teknolojilerinden yaygın biçimde
+yararlanmasını bilen aktif ve edilgenlikten kurtulmuş toplumdur. Bu özellikleri ile
+bilgi toplumu, bilgi teknolojileri ile biçimlenmektedir. Bilgisayar,' donanım,
+yazılım, iletişim ve sistemlerinden oluşan bilgi teknolojileri, günümüzde insan
+* Peter Druker, ( Çev. Birtane Karanakçi) Y eni G erçekler, Türkiye İş Bankası Kültür Yayınlan,Genel Yayın
+No:315, Tisamat Basım Sanayii, 1991, Ankara, S.177-178.
+12 Bilgi Teknolojileri ve Örgütsel Değişim
+yaşamının, evriminin dinamiğini oluşturmaktadır. Bilgi teknolojileri dünyada
+köklü değişimlere neden olmuştur ve yakın gelecekte de olmaya devam edecektir.
+Bilgi toplumunda, sanayi toplumunda ön planda olan maddi ürünler yerine,
+bilgi teknolojileri sayesinde bilgi üretimi önem kazanmaktadır. Sanayi toplumuna
+geçişin temel motoru, buharlı makinelerin keşfi olurken, bilgi toplumuna geçişte
+bilgisayarlar, iletişim teknolojisi, mikro elektronik, robotlar, biyoteknoloji ve
+^fiber optikler gibi yeni makine ve malzemelerin üretimi, itici rol oynamaktadır.
+Bir toplumun bilgi toplumu aşamasını yaşamaya başlamasını tespit etmede
+şu iki kritere bakılabilir: (1) Bilgi sektörü payının GSMH'daki payı (2) Bilgi
+sektöründe çalışan işgücünün toplam nüfusa oram. Bu tespitte kullanılabilecek
+bir başka kriter de kişi başına telefon sayısı ya da uluslararası yapılan telefon
+görüşmesidir. Bu kritere bakıldığında; 1980 yılında bilgi toplumu aşamasını
+yaşayan ABD'de 100 kişi başına düşen telefon sayısı; 78.8, İngiltere'de 47.7,
+F.Almanya'da 46.4, Japonya'da 46 ve îşviçre'de 40.1 iken; henüz sanayileşmesini
+yeni yeni gerçekleştiren G.Kore'de 9, Yunanistan'da 28.9 ve ülkemizde ancak
+4.2'dir. 1984 yılma gelindiğinde kişi başına düşen telefon sayısı en yüksek artış
+oram ile (%92) G.Kore'de 17.3'e, ülkemizde %69 artış ile 7.1'e, F.Almanya'da
+%28 artış ile 59.9'a, Yunanistan'da %23 artış ile 35.5'e ve bilgi toplumunu
+yaşayan Japonya'da daha düşük artış oram (%16) ile 53.5'e yükselmiştir5.
+Görüldüğü gibi, ülkemizde 1980'lerin başmda iletişim olanakları içinde en temel
+araç olan telefon sayısı bakımından diğer ülkeler arasında oldukça alt şualarda
+yer alırken, 1984 yılına gelindiğinde bilgi toplumu olmada bir adım öne geçmek
+üzere yüz kişi başına telefon sayısını, giriştiği köklü iletişim alt yapı çalışmalarıyla bir nebze de olsa yükseltmiştir. Elbette ki bilgi toplumu olmada bu kriter
+tek başına bir gösterge olmasa da kaba taslak ülkenin ne ölçüde bildirişimde bulunduğunun bir göstergesi olarak fikir verebilmektedir. Diğer taraftan, uluslararası kişi başına düşen telefon görüşmesi kriterine göre ülkemizin durumuna
+bakıldığında, bu kriter de ülkemizin, henüz bilgi toplumu olma sürecinde oldukça
+başlarda olduğunu göstermektedir (Tablo 2 )6.
+Günümüzde insanlık teknolojik yenilikler ve bunların yönetimi konusunda
+sanayi toplumunun insanına göre daha bilinçlidir. Bilgi toplumunun getireceği
+yenilikleri yönetmede daha donatımlı olan ulusların, bu yeni toplum düzeninde
+dönüşüm ve değişim sürecine daha duyarh olması ve zaman geçirmeden uyum
+sağlaması, gelecek dünya düzeninde üstün olmasına katkıda bulunacaktır.
+5 Statistical Y earbooks, UN, 1980,1984.
+6 Bu tablo Computerworld dergisinde yer alan Enformasyon Fakiriyiz: Bazı Ülkelerde Kişi Başına Uluslararası
+Telefon Görüşmesi (M I'IT) tablosundan yararlanılarak hazırlanmıştır. Computerworld Monitor, S. 3, 16-22
+Ocak 1995.
+Bilgi Toplumu ve Örgütlerde Bilgi Teknolojileri 13
+Tablo 2
+Bazı Ülkelerde Kişi Başma Düşen Uluslararası Telefon Görüşmesi (1990, OECD)
+Ü lkeler G örüşm e Sayısı
+L üksem burg 423.7
+.İsviçre 209.2
+Belçika 82.-3
+O E C D O rtalam ası 21.1
+İspanya 18.4
+Japonya 9.4
+T ürkiye 3.4
+D ünya O rtalam ası 7.3
+Bilgi toplumuna doğru yol alırken, bu dönüşümle ortaya çıkabilecek bir
+takım yönetsel sorunlar üzerinde durmak gerekecektir. Bu sorunları şöyle sıralayabiliriz:7 Uygun bir örgüt yapısı tasarlamak; üst yönetim kademelerinde
+çalışacak personelin temin edilmesi, hazırlanması ve sınanmasını sağlamak çok
+sayıda uzmanın bulunduğu kuruluşlarda gelecekle ilgili görüş ve düşüncelerde
+birlik sağlamak ve uzmanların ödüllendirilmeleri, takdir edilmeleri, mesleki
+ilerlemelerini sağlayacak yollar geliştirmek. Bu sorunları incelemek ve bunların
+yanıtlarını araştırmak, bilgi toplumuna geçişi kolaylaştırıcı rol oynamaktadır.
+Sanayileşmeyi henüz gerçekleştirme çabasında olan ülkemizde, bu konular
+üzerinde vakit geçirmeden durmak, 21.yüzyıla her açıdan hazır olmak bakımından önem taşımaktadır. Bunun için her şeyden önce, bilgi kavramına daha yakından bakmak gerekir. Bu toplumun temel direği ve vazgeçilmez kaynağı olan
+bilginin; işlenmesi, yönetilmesi ve örgütler için önemi üzerinde durmak, öncelikli
+konular arasmda bulunmaktadır.
+B. ÖRGÜ TLERD E B İL G İ VE YÖNETİM İ
+Bilgi teriminin sanayi ötesi toplum aşamasına geçişin yaşandığı günümüzde
+sıkça kullanıldığına tanık olmaktayız. Bu terim gerek İngilizce'de gerek
+Türkçe'de farklı anlamlar yüklenerek kullanılmaktadır. Örneğin İngilizce'de
+information ve knowledge terimleri kimi zaman aynı anlamda kimi zaman ise
+farklı anlamlar yüklenerek kullanılmaktadır. Ülkemizde de bu terimlerin karşılığı
+olarak veri ve bilgi deyimleri zaman zaman aynı anlamda zaman zaman ise farklı
+anlam ifade edecek şekilde kullanılmaktadır. Ancak sanayi ötesi topluma sahip
+olduğu önemden dolayı adım veren bu terimlerin bilgi teknolojileri ve sistemleri
+7 a-k., s.219.
+14 Bilgi Teknolojileri ve Örgütsel Değişim
+alanında kullanımlarına dikkat etmek gerekmektedir. Çünkü bu terimler aşağıda
+açıklanacağı üzere farklı içeriklere sahiptir. Dolayısıyla bilginin yönetiminde de
+bu farklılığın göz önünde bulundurulması, konuyla ilgili rasyonel kararların
+alınm asına zemin hazırlayacaktır. Bu bölümde bilgi kavramı açıldığa kavuşturulduktan sonra sırasıyla; örgütlerde bilginin önemi, bilgi işleme süreci ve yöntemleri, örgütlerin bilgi işlem performanslarının değerlendirilmesi ve bilgi kaynaklarının yönetimi ele alınacaktır.
+1. KAVRAMSAL OLARAK BİLGİ
+Çok boyutlu bir kavram olması nedeniyle bilgi, değişik bağlamlarda değişik
+amaçlar için, farklı biçimlerde kullanılabilmektedir. Bunlardan veri (data) ve
+bilgi (information) kavranılan, sık sık kanştınlmakta ve kimi zaman bu kavramlar yanlışlıkla birbirlerinin yerine kullanılmaktadır. Bilgi teknolojileri ve sistemleri yazınında, bu iki kavrama ilaveten üçüncü bir bilgi kavramı -üst bilgi (knowledge)-daha bulunmaktadır ki, aşağı yukan bu kavram da ilk bakışta diğer iki
+kavramın yüklendiği anlamı çağnştırmaktadır. Ancak, bu üç terim anlam
+bakımından birbirlerinden farklıdır. Her biri bilgi işleme sürecinin değişik
+aşamalarında çıktı olarak ortaya çıkan ürünlerdir.
+Bu açıdan bakıldığında veri, bu sürecin temel hammaddesi olarak ve çeşitli
+sembol, harf, rakam ve işaretlerle temsil edilen, ham işlenmeye hazır işlenmemiş
+gerçekler ya da izlenimlerdir.8 Ülkemizde bilişim alanındaki pek çok kavramın
+tanımlanması ve yerleşmesine büyük katkıları olan Köksal'a göre veri, "Olgu,
+kavram ya da komutları, iletişim, yorum ve işlem için elverişli biçimsel ve uzlaşımsal bir gösterimi"9 dir. Bilgi ise, verilerin, karar alma sürecine destek sunacak şekilde anlandı bir biçime getirilmek üzere, analiz edilerek işlenmesiyle ulaşılan sonuçlardır. Koksal bu tanıma benzer şekilde bilgiyi, "Bilgi işlemde kullanılan uzlaşımsal kurallardan yararlanarak kişinin veriye yönelttiği anlam"10 olarak
+tanımlamaktadır. Bilgi mevcut karar durumu ile doğrudan ilgilidir. Üst bilgi
+terimi de spesifik bir amaca yönelik olarak bilgilerin çeşitli analiz, sınıflama ve
+gruplama işlemlerinden geçirilerek, ileri zaman diliminde potansiyel olarak kullanılma hazır hale getirilmiş bilgidir.11 Üst bilgi, yargılama ile elde edilen deneyimlerdir. Üst bilgiler, biçimsel olarak kütüphanelerde ya da dokümantasyon merkezlerinde tutulmaktadn. Bu bilgilerin gelecekte kullanılma potansiyeli olduğu
+* A M Me Donough, Inform ation Econom ics A nd M anagem ent Systems, Me Graw Hill, New York, 1963,
+S.71.
+9 Aydın Koksal, Bilişim T erim leri Sözlüğü, T ürk Dil Kurumu Yayınlan, No: 476, Ankara, 1981, S.84.
+10 ajk., s.26.
+11 a-k., s.87-88.
+Bilgi Toplumu ve Örgütlerde Bilgi Teknolojileri 15
+varsayılır.12 Veri, bilgi ve üst bilgi olarak tanımladığımız temel bilişim terimlerinin iletişim esnasında sahip oldukları nitelikleri belirtmek üzere, şöyle bir sınıflama yapılabilir (Şekil 1).
+Veri ve bilgi arasındaki farkı anlamak; iki nedenden dolayı önem arz
+etmektedir. Birincisi, yöneticilerin bilgi gereksinimleri ile veri temelli gereksinimlerine göre tasarımlayabilme; ikinci ise, karar verme düzeyindeki kişilere veri
+yerine, bilgi sağlama gerekliliği olmaktadır.Veri her ne kadar karar alıcıyı bilgilendirmede kullanilan temel malzeme ise de, eldeki tüm veriler etkili kararlar
+almada gerekli bilgi üretemeyebilir. Pek çok örgütte oldukça fazla verilerin
+tutulduğu bir veri havuzu olmasına karşın, karar alıcıların, bu geniş veri havuzlarından yararlanma olanakları kısıtlı olabilmektedir. Bu duruma meydan vermemek için, örgütün bilgi sistemi tasarlanırken, "bilgi" ile ne kastedildiğinin ortaya
+konması gerekir. Bilgiler karar vericinin ihtiyaçlarım karşıladığı sürece bir anlam
+taşırlar. Kişisel ve örgütsel etkili kararlar almada kilit rol üstlenen bilgilerin,
+belirli niteliklere sahip olması gerekir. Bilginin değerini belirleyen temel
+nitelikler; doğruluk, noksansızlık, zamanlılık, uygunluk, yerindelik ve
+ucuzluktur.13
+\
+Şekil 1: Veri, Bilgi, Üst Bilgi
+KAYNAK: IBM Seminer N otlan, 1993 (Yayınlanmamış)
+12 Me Luhan, L., The Gutenberg Galexy, University of Toronto, USA, 1962.
+u Larry Long, M anagem ent In fo rm atio n Systems, Prentice-Hali, New Jersey, 1989, s. 10-11.
+16 Bilgi Teknolojileri ve Örgütsel Değişim
+Doğruluk, karara esas olacak bilginin sahip olması gereken en temel
+niteliktir. Bilgiler hatalardan arındırılmış olmalıdır. Kararın niteliğine göre doğruluk derecesi farklılık gösterebilir. Kimi kararlarda yüzde yüz doğru bilgilerin
+olması gerekirken, kimilerinde ise, bu oranda doğru bilgiye sahip olmak hem
+ekonomik, hem de rasyonel olmayabilir. Doğruluk derecesinin düşük tutulduğu
+bilgiler için karar verici, kabul edilebilir düzeyde doğruluk derecesini benimser.
+Bilginin doğru olması, etkin kararlar almada tek başına yeterli değildir. Bilginin
+doğru olmasının yanı sıra noksansız da olmalıdır. Eksik bilgi ile ulaşılan kararlarda hata olasılığı oldukça fazladır. Örneğin fayda\maliyet analizi; fayda ile ilgili
+tam bilgi ortamında, maliyetle ilgili noksan bilgi ortamında yapıldığında kârlı
+olmayan projelere onay verme riskini doğurur. Noksansız bilgiye sahip olmak
+amacıyla gerekli-gereksiz ayırımı yapmadan her türlü bilgiyi karar vericiye
+sunmak da olumsuz sonuçlar doğurmaktadır. Bu nedenle bilgilerin uygunluk
+kriteri bakımından da test edilmesi gerekir. Karar vericiye sunulan bilgiler doğru,
+noksansız ve uygun olabilir, ancak karar esnasında bu niteliklere sahip bilgiler
+yoksa, ya da geç ulaştırılmışsa; bu bilgilerin hiç bir değeri olmayacaktır. Bu
+nedenle bilginin zamanında karar vericiye ulaşması gerekir. Bu ise, bilgilerin
+veri toplama ve işleme sürecinden zaman kayıplan olmadan kısa sürede geçmesini gerektirir. Ancak veri işleme sürecinin hızı ile ulaşılan sonuçların doğruluk
+derecesi arasmda ters bir ilişki vardır. Bu ilişki göz önüne alınarak bilgilerin
+istenilen düzeyde doğru ve zamanlılığını sağlamaya özen gösterilmelidir.
+Yukanda sayılan niteliklere sahip bilgiler, karar vericinin anlayabileceği ve
+etkili olarak kullanabileceği şekilde iletilmelidir. Böylece karar için gerekli
+bilgileri edinen karar vericinin eyleme geçmesi sağlanır. Aksi halde yorumlanamayan ve anlaşılmayan bilginin karar vericiye hiçbir faydası olmaz.
+Davis, bilginin kalitesini etkileyen iki faktörden söz etmektedir. Bunlar
+taraflılık ve hatadır. Taraflılık faktörünü ortadan kaldırmak, karar verici için
+nispeten kolaydır. Çünkü taraf tutulduğunun farkına varan karar vericinin buna
+göre düzeltmelere gitmesi mümkündür. Hatayı düzeltmek daha zor ve uzun bir
+süreç gerektirir. Bilginin hatalı olması genellikle; ölçme ve toplama yöntemlerinin
+yanlış olması, veri işlemede hatalı yöntem kullanma, verinin kayıt edilmemesi
+(unutma, kayıp vb gibi nedenlerle) ya da yanlış kayıt edilmesi, kullanılan programların yanlış olması ya da yanlış dosyalama yapılması gibi durumların
+sonucunda ortaya çıkmaktadır.14 Bu hatalardan kurtulmak için, veri işleme
+sürecinin her aşamasında kontrol işlemine önem verilmelidir.
+Son yıllarda hammadde, işgücü ve sermayeye göre önemi artan bilgi faktörü, yöneticileri bilgi kaynaklarım etkin yönetme arayışına yöneltmiştir.
+14 Cengiz Yılmaz, Bilgi İşlem ve Y önetim Bilgi Sistemi, Erciyes Üniversitesi, İktisadi ve İdari Bilimler
+Fakültesi, Yaym No: 2, Kayseri, 1988, s. 22-23.
+Bilgi Toplumu ve Örgütlerde Bilgi Teknolojileri 17
+Yöneticiler bilgi kaynaklarını yönetmede şu hedefleri gerçekleştirmeye özen
+gösterir olmuşlardır:15 (1) Etkin bir yönetim bilgi sistemi kurmak suretiyle
+işletmenin değerini yükseltmek (2) Karar ahcıya doğru zaman diliminde doğru
+biçimde, doğru bilgiler kazandırmak. Bu hedeflere ulaşmak için öncelikle örgütün
+bilgi gereksiniminin tam olarak ortaya konması gerekir.
+2. ÖRGÜTLERDE BİLGİNİN ÖNEMİ VE BİLGİ GEREKSİNİMİ
+Günümüzün politik, sosyal ve ekonomik örgütlerinin giderek karmaşık
+yapıya bürünmeleri, bunların yönetimi ve denetiminde daha fazla bilgiye
+gereksinim duyulmasına yol açmıştır. Çağdaş örgütlerde ihtiyaç duyulan bilgi
+miktarı da hacimsel olarak gün geçtikçe artmaktadır. Bu denli çeşitlenen ve
+büyük hacimlere ulaşan bilgi yığınlarım anlamak, yorumlamak ve anımsamak,
+gerek kapasite ve gerekse zaman bakımından olanaksızdır. Örgütlerde bu tür
+bilgiler ancak sistematize edilerek etkili ve verimli kullanılabilir. Genel olarak,
+örgütlerde geçmişi hatırlamak, bugünü izleyebilmek ve geleceği planlamak
+amacıyla bilgiye ihtiyaç duyulmaktadır.
+Bugün artık bilgi, ekonomide en temel kaynak olarak karşımıza çıkmaktadır.
+Hammadde, sermaye ve işgücünden oluşan geleneksel üretim faktörleri ikincil
+öneme sahip olmuşlardır. Bu kaynaklan belirli bilgi sağlandığı müddetçe kolayca
+elde etmek mümkün olabilmektedir. Ancak bilgi kendi başına bir şey üretemez,
+yalnızca bir iş-görevle bütünleştiğinde üretken olabilir. Bu nedenle bilgi toplumu,
+örgütler toplumudur ve bu örgütlerin amacı uzmanlık bilgilerini bir işe entegre
+edebilmektir.16 Bilgi kişisel ve örgütsel kararların temelini oluşturur. Örgütsel
+hedeflere ulaşmak için tüm örgüt düzeylerinde bilgiye ihtiyaç duyulur. Ancak
+ihtiyaç duyulan bilginin türü, yapısı ve içeriği bu bilgiyi kullanan birimin işlevlerine göre farklılık gösterir. Örgütün alt düzeylerinde bulunan, yürütmeden
+sorumlu yöneticilerin bilgi ihtiyaçları rutin, günlük, yürütme ile ilgili kararlar için
+olurken; orta düzey ve özellikle üst düzey yöneticilerin bu ihtiyaçları uzun
+dönemli kararlar alma ve politikalar oluşturmada ortaya çıkar.17
+Örgütün alt kademelerinde alman kararlan çok sayıda ve sürekli tekrar eden
+nitelikte olup, çoğunlukla bu kararlar programlanabilme özelliğine sahiptir. Bu
+özellikleriyle alt kademede, daha çok ayrıntılı ve çoğunlukla örgüt içi bilgilere
+ihtiyaç duyulur. Buna karşın, üst düzeylerde politika geliştirme ve planlamaya
+yönelik programlanamayan kararlar alındığı için, daha çok özetlenmiş (örgüt içi
+ve dış kaynaklı) bilgilere gereksinim vardır. Günümüz örgütlerinin yaşamsal
+11 Larry Long, a.g.e., s .l l .
+“ Peter Druker, "The New Society o f Organizations", H arv ard B usiness Review, Sept-OcL, 1992, s.95-104.
+17 Cengiz Yılmaz, a.g.e., s.28-29.
+18 Bilgi Teknolojileri ve Örgütsel Değişim
+kaynağı olan bilginin de bir maliyeti söz konusudur. Ancak soyut nitelik taşıyan
+bu kaynağın maliyetini belirlemek zordur. Diğer taraftan, bilginin ekonomik
+olup-olmadığımn tespitinde maliyeti ile karşılaştırmaya tabi tutulacak bir başka
+değişkene - bilginin değeri - ihtiyaç duyulur. Bilginin değeri; yukarıda ayrıntılı
+olarak anlatılan doğruluk, kolay, hızlı ve zamanında elde edilebilme, ihtiyaçlara
+uygun olma, açık, kapsamlı ve esnek olma gibi niteliklerle belirlenir. Bilgi diğer
+kaynaklardan farklı olarak kullanıldıkça değer kazanmaktadır. Bilginin değeri en
+anlamlı bir biçimde bir karar bağlanımda kullanıldığında açıklanabilir. Bilgi
+alınacak kararlan ve yapılacak işleri etkilediği oranda değerlidir. Bilginin
+ekonomik olması için bilgiyi elde etmenin maliyeti onun değerinden yüksek
+olmalıda.
+Bilgi sistemlerinin amacı; bilginin maıjinal değerinin o bilgiyi elde etmenin
+marjinal maliyetine eşit olduğu optimum noktaya erişmektir. Bilginin değer ve
+maliyetini belirlemek örgütün bilgi sisteminin boyutunu belirlemede önem taşımaktadır. Bir bilgi sisteminin boyutu, tutulan bilgilerin değeri ile maliyetinin eşit
+olduğu noktaya kadar genişletilmelidir. Örgütlerde bilgisayara dayah bir bilgi
+sistemi tasarlamak ve gerçekleştirmek için bilgi ihtiyacı örgüt ve uygulama olmak
+üzere iki düzeyde belirlenmelidir. Örgüt düzeyinde belirlenecek bilgi ihtiyacı ile
+örgütün bilgi mimarisi tanımlanmış olur. Uygulama düzeyinde belirlenecek bilgi
+ihtiyacına göre oluşturulacak bilgi sistemi, örgütün bir birimine ya da bir faaliyetine hizmet sunar. Bu özelliği ile uygulama olarak geliştirilen bilgi sistemi,
+örgütün genel bilgi yapısının bir alt sistemi olmaktadır. Örgütlerde bilgi sistemi
+tasarımına giderken, bu iki düzeyi ayırt etmek gerekir. Örgütün bilgi gereksinimleri örgütsel düzey yerine uygulama düzeyinde ele alınırsa aşağıda belirtilen bir
+takım sorunlarla karşılaşılır:18
+1. Bilginin bir uygulamaya ait olması halinde diğer uygulamalar için aynı
+bilgiye erişimde güçlük çıkabilir. Aynı bilginin birden fazla bilgi yapısı içinde yer
+alması tutarsız bilgilerin doğmasına neden olabilir.
+2. Yeni uygulamalar için bilgi yapılan tasarlamak, mevcutlan yeniden
+tasarlamayı gerektirebileceği için fazla maliyete neden olabilir.
+3. Herhangi bir uygulamaya ait bilgi, o uygulama için geliştirildiğinden, bir
+başka iş için yapılacak plansız sorgulama ve analiz yapma, zor ve maliyetli
+olabilir.
+Bu tür sorunlara meydan vermemek için, bilgiyi örgütün bir kaynağı olarak
+ele almak ve bilgi ihtiyaçlarım örgüt düzeyinde belirlemek gerekir. Böylece
+örgütün çeşitli birimleri, örgüt düzeyinde tutulan ortak bilgiyi kolaylıkla sorunsuz
+paylaşma olanağı elde eder.
+'* Albert L. Lederer ve Aubrey L. Mendelow, "Information Systems Planning: Top Management Takes Control",
+Business H orizons, May-June 1988.
+Bilgi Toplumu ve Örgütlerde Bilgi Teknolojileri 19
+Günümüzde ilişkisel bilgi modellerinin, 4.kuşak programlama dillerinin ve
+çeşitli kullanıcı ara birimlerin geliştirilmesiyle örgütün bilgi ihtiyaçlarının tespitinde klasik metodolojiler yerine yeni yöntemler kullanma şansı doğmuştur.
+Klasik metodolojide, bilgi ihtiyaçları uygulama düzeyinde belirlenmekte ve analistler tasarımı kullanıcı isteklerine göre yapmaktadır. Bu yaklaşımda kullanıcı
+ve analist arasında yeterli işbirliği yapılamamaktaydı. Kullanıcı tam olarak ihtiyaçlarım belirleyememekte ve temel tasarım kararlarından habersiz kalmaktaydı.
+Yeni yaklaşıma göre; bilgi ihtiyaçlarının tespitinde, hazırlık ve modelleme
+olmak üzere iki ana aktivite yürütülmektedir. H azırlık aşamasında; ihtiyaçlar
+tespit edilmekte ve var olan sistem anlaşılmaya çalışılmaktadır. Bu aşama
+modellemeye zemin teşkil edeceği için oldukça titiz yapılmalı ve şu noktalara
+dikkat edilmelidir: İhtiyaçlar çok iyi ortaya konmalıdır; sistemi kullanacak olan
+ya da bundan yararlanması söz konusu olan kişilerle sistemin getireceği değişimlerle ilgili görüşmeye gidilmelidir; gerek fonksiyonel düzeydeki yöneticiler, gerekse operasyonel düzeydeki çalışanların karşdaştıklan sorunlar derlenmek, yeni
+sisteme olan tepkileri toplanmalıdır; yeni sistemde operasyonel düzeyde çalışanların yetenekleri, mevcut donanım ve yazılım nedeniyle kısıtlamalar ve
+zorunluluklar ortaya konmalıdır.
+Modellemede; örgütün gerçeklerini ve amaçlarını ihtiyaçlar doğrultusunda
+belirleme ve belgeleme yoluna gidilir. Modelleme faaliyeti veri ve işlem modeli
+olmak üzere iki alt bileşen çerçevesinde yürütülür. Bilgi modelinin temelini
+örgütün izlemek durumunda olduğu ilişkili bilgi elemanlar seti olarak "entity-varlıklar" oluşturmaktadır. Bilgi modelinin belirlenmesinde sırasıyla şu işlemler
+yapılmaktadır19:
+1. "Entity "lerin belirlenerek grafiklerinin çizilmesi. Bu aşamada ihtiyaç
+olarak belirlenen bilgi elemanlarının "Entity" olup-olmadığı kontrol edilir,
+bunların hangi bilgi elemanlarından oluşacağı tespit edilir ve belirlenen "Entity"
+lerin grafikleri çizilir.
+2."Entity" tanımlarının yapılması ve bunları oluşturan bilgi elemanlarının
+üstelerinin hazırlanması. Her "Entity"nin ilişki içinde olacağı diğer 'entity'ler
+belirlenir. Burada aynı zamanda "Entity'ler için gerekli bilgi elemanları tespit
+edilir.
+3. Bilgi elemanlarının tanımlanması. Bilgi elemanlarının tek tek özellikleri,
+olası değerleri ve anlamlan belirlenir.
+Örgütsel düzeye göre gereksinim duyulacak bilgilerin niteliği de farklılık
+göstermektedir. Örneğin, çoğunlukla rutin ve kayıt tutma işlerinin yürütüldüğü
+operasyonel düzeyde, kısa döneme ışık tutacak ve rutin raporlarla sunulan bilgiw Ziya Aklaş, S tru c tu red Analysis an d Design o f In form ation Systems, Englewood, Cliffs, N.J.,
+Prentice-Hall, USA, 1987, s.40-47.
+20 Bilgi Teknolojileri ve Örgütsel Değişim
+lere gereksinim duyulur. Buna karşın, üst düzeylere doğru bu gereksinim, "Eğer
+ise" analizine olanak tanıyan ve çoğunlukla istisnai olarak hazırlanan raporlardan
+elde edilebilen bilgilere dönüşür (Şekil 2). Örgütün alt düzeylerinde bulunan büro
+çalışanları, sürekli olarak veri işleme sistemlerine girecek günlük kayıt tutma
+işlevini gerçekleştirir. Bu kayıtlardan yapılacak sorgulamalar ise, operasyonel
+düzeyde periyodik raporlar ile kısa dönemli geribesleme olanağı sunar Bu sorgulamalar veri işleme sistemine dayak olarak gekştirilen yönetim bilgi sistemleri
+(YBS) içinde gerçekleştirilir. Örgütün taktik düzeyini oluşturan orta kademe
+yönetiminde ise bu iki sistemin üzerine kurulan karar destek sistemleri ile uzun
+dönemli geri besleme olanağı elde edilir. Bu düzeylerde gereksinim duyulan
+bilgilerin temel nitehği ise periyodik olmalarıdır.
+Şekil 2 : Örgütsel Düzeye Göre Bilgi Gereksinimi
+Kaynak: Long, L.:A_g.e., s.25.
+Örgütün en üst düzeyinde ise, stratejik kararlara esas olmak üzere gekştirilen uzman ve karar destek sistemleriyle çoğunlukla bir kez alınan raporlar
+için bilgilere gereksinim duyulmaktadır. Bu düzeylerin her birinde gereksinim
+duyulan bilgileri işlemede değişik yöntemler kullanılmaktadır.
+Bilgi Toplumu ve Örgütlerde Bilgi Teknolojileri 21
+3. BİLGİ İŞLEME SÜRECİ VE YÖNTEMLERİ
+Veri ve bilginin tanımına uygun olarak, veri ve bilgi işleme süreci farklılık
+gösterir. Karar alma işleviyle ilgili birtakım istatistiksel verilerin işlenmesi veri
+işleme, bu sonuçların karar almada yöneticiye yararlı anlandı raporlar haline
+dönüştürülmesi de bilgi işleme olarak tanımlanabilir.20 Yazında kimi yazarların
+yeri işleme ve bilgi işlemeyi aynı anlamda kullandıkları görülmektedir.21 Yabancı
+düde yazılmış çalışmalarda ise bu süreçleri farklı gören yazarların "Data Processing" ve "Information Processing" deyimlerini kullandıklarına rastlanılmaktadır. Veri ve bilgi işleme süreci aslında birbirini izleyen işlemlerden geçen
+bir süreçtir. Veri işlemede girdi olarak işlenmemiş ham veriler, belirli bir süreçten
+geçerek işlenmiş veri durumuna getirilmektedir. Bilgi işleme sürecinde ise; bu
+işlenmiş veri (bir anlamda bilgi) ulaşılmak istenen hedefler doğrultusunda, gerekli
+birtakım süreçlerden geçerek (analiz, raporlama, sınıflama vs.) karar almaya
+yardımcı bügilere dönüştürmektedir. Burada ulaşılan bilgiler bir başka karar
+sorunu içinde daha sonra belki yeniden veri işleme sürecine bir ham veri gibi
+dönebilecektir. Gerek veri işleme gerekse bilgi işleme sürecinde genel olarak kayıt
+etme, sınıflama, sıralama, hesaplama, özetleme ve rapor etme faaliyetlerinden bir
+ya da birkaçı yapılmaktadır:22 Bu faaliyetleri kayıt etme, işleme ve raporlama
+olmak üzere üç farklı grup altında toplayabiliriz.
+İnsanoğlu bilgi işlemede etkili sonuçlar alabilmek için, sürekli arayış içinde
+olmuştur. Bilgi ihtiyacı artıkça ve önemi kavrandıkça, bu alana teknolojik
+gelişmeleri aktarmak suretiyle yeni yöntemlerin geliştirilmesi zorunlu olmaya
+başlamıştır. Böylece bilgi işlemede kullanılan yöntemler teknolojide ulaşılan
+aşamalara göre farklılık göstermiştir. Bu amaçla önceleri tamamen el ile yapılan
+bilgi işlem faaliyetleri günümüzde mekanik ve elektro mekanik bilgi işlem süreçlerini de aşarak elektronik ortamlarda bilgisayar aracılığı ile yapılır hale gelmiştir. Teknolojik ilerlemelerin ürünü olarak, bilgi işlemede el ile bilgi işleme,
+mekanik bilgi işlem, elektro-mekanik bilgi işlem ve elektronik-bilgi işlem olmak
+üzere dört aşama yaşanmıştır.23 Bu aşamalar ve sağladıkları avantajlar ve sahip
+oldukları dezavantajlar Tablo 3 'de sunulmuştur.
+Tablo 3'den görüldüğü üzere, gelişmiş bilgisayarların üretilmesiyle birlikte,
+bilgi işleme işlevinde devrim yaşanmış ve bugün artık örgütler çok büyük yığınlara ulaşan bilgilerle baş etmek durumunda kalmışlardır. Diğer taraftan büyük
+20 Cengiz Yılmaz, a-g.e., s.33; Hayri Ülgen, İşletm e Y önetim inde B ilgisayarlar, İstanbul Üniversitesi Yayın
+No:2806, İstanbul, 1980 s.22.
+21 Hayri Ülgen, a-g.e.
+22 R.E. Glos, H.ABaher, In troduction to Business, 6 Ed.South Western Pub.Co., Cincinati, 1967, s.539.
+23 Bkz.Cengiz Yılmaz, a-g.e., S.41-48; Uman, Nuri, Bilgi İşlem de K om püterier ve T ürkiye'de
+K om puterlerin D urum u, s.8; Hayri Ülgen, a-g.e., s.35-36.
+22 Bilgi Teknolojileri ve Örgütsel Değişim
+hacimlere ulaşan bu kaynağı etkili kullanabilmek için mevcut performansın
+ölçülerek gerekli düzeltmelere gidilmesi, zorunlu hale gelmiştir.
+Tablo 3: Bilgi İşlem Sürecinde Yaşanan Aşamalar
+Bilgi işlem e
+A şam aları
+K ullanılan A raçlar A van tajlar D ezavantajlar
+EI - Esnek Zaman alıcı, güvenilir ve
+ekonomik değil
+Mekanik Otomatik hesap makinası Daha az zaman alıcı,
+güvenilir, standart çıktı
+Esnek değil, saklamak
+zor, pahalı
+Elektro-Mekanik Delikli kartlı makineler Hızlı, etkili, kolay Pahalı, kesikli bilgi işlem
+süreci
+Elektronik Bilgisayar Hızlı, güvenilir, veri
+taşıma otomatik
+Pahalı
+4. ÖRGÜTÜN BİLGİ İŞLEM PERFORMANSINI DEĞERLENDİRME
+Bilgi işleme, örgütlerin yürüttüğü temel süreçlerden biridir. Yukarıda ayınım yapılan veri ve bilgi İkilisinden yöneticiler için bilgi, verilerden daha fazla
+önemlidir. Bu nedenle bilgi işleme örgütler için son derece önemlidir. Örgütsel
+bilgi işleme süreci örgüt içinde yorumlanabilir durumlar yaratarak belirsizliği
+azaltır.24 Bu anlamda örgütün yapısı, kendi başına bir bilgi işlem sistemidir.
+Örgütsel yapı, belirli periyodlarla örgütün bilgi işlem gereksinimim ne ölçüde
+karşıladığını test etmek üzere gözden geçirilmelidir. Bu şekilde yapılan kontroller
+örgütte var olan bilgi işlem sorunlarım vakit kaybetmeden açığa çıkarabilmektedir. Örneğin, bu kontroller sonucunda örgütte aşın bilgi işleme faaliyetinin yapıldığı gözlenebilir. Aşın bilgi akışı örgüt için faydalı olmamakta, yöneticilerin gereksiz yere aşın bilgilendirilmelerine neden olmaktadır. Örgütün bilgi
+işlem sürecini anlamak üzere çeşitli yazarlar, değişik metotlar geliştirmişlerdir.
+Bunlara örnek olarak Huber, Galbraith, Daft ve Lengel modeli verilebilir.25
+H uber Modeli: Huber örgütün bilgi sisteminin performansım belirlemede
+iki temel kriter kullanır. Bunlar sırasıyla verimlilik ve sürekliliktir( Tablo 4)26.
+14 Daniel Robey, Designing O rganizations, Irwin Homewood 3-Ed.Boston, 1991, s.450.
+“ a-k., s.451-456.
+” a.k.,s.452.
+Bilgi Toplumu ve Örgütlerde Bilgi Teknolojileri 23
+Tablo 4 : Bilgi İşlem Performansım Belirlemede Kullanılan Kriterler
+T em el K rite rle r A lt K rite rle r
+1.V erim lilik M esaj Rotası
+(Mesaj m birimlere dağılımım etkiler)
+2.Süreklilik M esaj Düzeltm e
+(Mesajın anlamı değişir)
+M esaj Ö zetlem e
+(Mesajın anlaşılmasını sağlar)
+M esaj Gecikmesi
+(Mesajın zamanlanmasın! etkiler)
+Huber modelinde yer alan temel kriterlerden verimlilik, örgüt içinde kurulan
+bilgi işlem sisteminin birimlere sunduğu mesajların en etkili rotayı izleyerek
+gitmesini garantileyen mesaj rotası ve mesajm anlaşılmasını sağlayan mesaj özetleme alt kriterleri kullanılarak tespit edilir. Diğer taraftan, örgütün bilgi işlemini
+sürekli kılmak üzere, mesaj düzeltme ve mesaj gecikmesi alt kriterleri
+kullanılarak performans düzeyi yükseltilmeye çalışılır.
+G albraith Modeli: Örgütsel bilgi sistemleri ile ilgili uyumlu model, ilk
+defa Galbraith tarafından geliştirildi. Galbraith, örgüt tasarımının bilgi işleme
+sürecine dayalı olarak yapılması gerektiği üzerinde durarak, belirsizliği gidermede örgütlerin üç alternatife sahip olduğunu belirtmiştir (Şekil 3 ).
+Belirsizlik nedeniyle örgütte bilgi işlem talepleri büyük olduğu zaman iki
+genel stratejiden biri izlenenin (1) Çevresel strateji, tampon alan ve özerk -kendi
+kendine yeterli- bölünmelere gitmek suretiyle, bilgi işleme ihtiyacım azaltmak (2)
+Dikey bilgi sistemi ve yatay ilişkiler kullanmak suretiyle, bilgi işlem kapasitesini
+artırmak. Bu alternatifler arasındaki seçimi ise, her birinin getireceği maliyet
+yükü belirler. Her bir alternatifte yer alan kavramlara daha yatandan bakacak
+olursak, Galbraith'in modelini anlamak kolaylaşacaktır. Bilgi işleme ihtiyacım
+azaltma ile ilgili olarak yer alan çevresel strateji faktöründe dikkat çekilen nokta,
+belirsizliğin temel kaynağı olan çevresel gelişmeler, örgüt tasannu stratejisine
+dahil edildiğinde, bilgi işleme ihtiyacında azalma sağlamasıdır.
+Şekil 3: Örgüt Tasarımında Galbraith'in Bilgi İşleme Modeli
+v
+r
+suretiyle belirsizliği gidermek
+Kurallar,hiyerarşik yapı ve
+kontrol alanım değiştirmek
+B ü ro k ratik T asarım
+(1)
+Bilgi İşlem İhtiyacını
+A zaltan Seçenekler
+(2)
+Tampon alan
+Kendi kendine yeterli bölümler
+Yatay ilişkiler
+Dikey bilgi sistemi
+Bilgi İşlem Etkililiğini
+A rtıra n Seçenekler
+(3)
+24 Bilgi Teknolojileri ve Örgütsel Değişim
+Diğer bir faktör olarak önerilen tampon alanlar; birbirleriyle bağlı birimleri
+desteklemek üzere kullanılan stok alanlar için ilave kaynaklar ayırmayı ifade
+etmektedir. Böylece tampon alanları artırmak suretiyle örgüt kaynaklan kıt olduğu zamanki kadar tahsis ve planlamaya ihtiyaç duymayacaktır. Kendi kendine
+yeterli gruplandırılmış bölümlendirme, otonom ve birbirinden farklı bölümler gibi
+hareket serbestisi olan bir yapılanmayı ifade eder. Fonksiyonlara göre bölümlemeden farklı olarak bu tür bölümlendirmede her bölüm, kendi üstlendiği işi
+yapmak üzere gerekli fonksiyonel niteliklere sahip olmaktadır. Bu tür örgütlenmenin bilgi ihtiyacını azaltan bir etkisi bulunmaktadır. Örgütün bilgi işleme
+kapasitesini artırıcı faktörlerden biri olan yatay ilişkilendirme, takım esasma
+dayah olan proje ya da matriks örgütlenme ile sağlanmaktadır.Yatay iletişim
+kanalları dikey kanallarda olduğu gibi bilgi işleme işlevini üstlenmekten çok,
+desteklemektedir. Dikey bilgi sistemi ise aşağı ve yukarı olan kanal kapasitesini
+artırmak suretiyle yalnızca bürokratik yapıdaki bir örgüte destek sağlar.
+Daft ve Lengel Modeli : Daft ve Lengel; bilgi işleme gereksinimini
+teknoloji, bölümler arası ilişkiler ve çevre olmak üzere üç kaynağın yarattığım
+belirtmektedirler. Modele göre etkin örgütlerde farklı yapısal mekanizmalar belirsizlik ve muğlaklık (kapalılık) derecesine bağlı olarak kullanılır. Belirsizliğin çok
+az düzeyde olduğu durumlarda basit kurallar ve ileşitim süreçleri, ihtiyaç duyulan tüm bilgiler yaratabilir. Ancak belirsizliğin ve muğlaklığın fazla olduğu
+durumlarda basit mekanizmalar ve sayısal içerikli raporlar yeterli olmaz. Bu
+durumlarda yüz yüze karşılaşma bu müphemliği gidermede etkin bir yol olmaktadır. Bu tür durumlarda örgütsel karmaşıklık ve belirsizlik bilgi kanallarım
+zenginleştirmek yoluyla giderilebilir.
+Örgütün bilgi işlemden sorumlu yöneticileri, mevcut bilgi işlem
+performansım değerlendirmede bu modellerden birini ya da bir kaçım bir arada
+kullanabilirler. Bilgi işlem performansının değişik modeller çerçevesinde değişik
+kriterler bakımından ortaya konulması daha kapsamlı bir incelemeye olanak
+tanır. Bilgi işlem performansı değerlendirilen örgütün bu süreçle yarattığı bilgilerin ve bunların kaynaklarının yönetilmesi de, yöneticilerin sıkça yüz yüze
+kaldıkları sorunlar arasmda yer almaktadır.
+5. BİLGİ KAYNAKLARININ YÖNETİMİ
+Bilgi kaynaklannın yönetimi (Information Resource Management -IRM),
+veri ve bilgilerin yönetimi olarak son yıllarda örgütlerin uğraşmak durumunda
+oldukları konular araşma girmiştir. Nasıl ki bir malzeme ya da insan kaynaklarının yönetimi, örgütün varlığım sürdürme ve rekabet üstünlüğünü sağlamada
+önemli ise, bugün artık bir kaynak olarak ele alınan bilgilerin yönetimi de bu
+Bilgi Toplumu ve Örgütlerde Bilgi Teknolojileri 25
+amaçlan gerçekleştirmede üzerinde düşünülmesi gereken bir konu olmaktadır.
+Bir şemsiye terim olan bilgi kaynaklarının yönetimi, aynı zamanda veri işleme,
+saklama, elde etme ve bilgi olarak elde edilen sonuçların saklanması ve iletilmesi
+gibi işlevleri yerine getiren bilgisayar donanımdan, yazılından, iletişim
+araçlan,örgüt içi ve dışı veri ve bügi tabanlan gibi bügiye ilişkin her türlü
+unsurun yönetimini içermektedir.
+Bügi kaynaklarının yönetiminde temel olarak, iki amacın gerçekleştirilmesine çalışılır. Bunlardan en genel olanı, bügi teknolojileri ve bu teknolojilerle desteklenen bügi sistemleri aracılığı üe kuruluşun değerini yükseltmek;
+diğeri ise, doğru bügiyi en uygun zamanda ve biçimde karar alıcıya sunabümektir.27 Stratejik bir kaynak olan büginin yönetimi, örgüt düzeyinde oluşturulan veri tabanlan(database) ve bundan yöneten veritabanı yöneticüeri (Database
+Management Systems - DBMS) aracılığı üe gerçekleştirilir. Veritabanlan,
+fiziksel olarak tek bir veri temeli olmayıp, mantıksal olarak ilişküendirilmiş bügi
+temelleridir. Örgüt düzeyinde oluşturulan bu bügi temelleri büginin bütünlüğünü
+ve denetimini sağlamaktadır. Ancak merkezi denetim için veri tabam yönetim
+işlevlerini yürütmek üzere veri tabam yöneticüerine (Data Base Administrator -
+DBA) ihtiyaç duyulmaktadır. Bügi kaynaklarım yönetmede gereksinim duyulan
+bir başka unsur da, veri sözlüğü-data dictionary-dür. Bu sözlükte verilerin
+özellikleri, kullanım alanlan ve kaynaklarına ilişkin bilgiler bulunur.
+Bügi yönetiminde en önemli sorun, bügi elde etme üe ilgili teknolojüerde
+sağlanan gelişmeler nedeniyle sürekli değişen bir çevrede faaliyet gösterme
+zorunluluğunun olmasıdır. Örgütte tüm yöneticüer büginin yönetiminden sorumludur, ancak bu yöneticüerin örgütün bügi işleme faaliyetlerim yönetmekle
+sorumlu olan bügi yöneticisi üe işbirliği içinde olmaları gerekir. Yönetici için
+karara uygun bügi oldukça elzemdir. Bu nedenle uygun bilginin nerede saklandığı, bunlara nasü erişüeceği ve nasü kullanüacağı önem kazanmaktadır.
+Örgütlerde kuUanüan bügüerin büyük bir kısmı bügisayar ortamında dosyalarda (fileş) ya da veri tabanlarında saklanmaktadır. Bügi gereksinimi hangi
+örgütsel düzeyle Ugili olursa olsun, bügisayar ortamında tutulan veri ve bilgüer
+yöneticüere etkin kararlar almada gerek zamandan, gerekse maliyetten tasaruflar
+sağlar. Bu avantajlar ise, veri ve bügüerin dosyalar ve veri tabanlan olarak
+bügisayar ortamında tutulmalan üe gerçekleşmektedir. Bügüerin dosyalarda
+saklanmasında sıralı, rasgele ve indeksli olmak üzere üç farklı yöntem kullanılır
+Bunlardan sıralı dosya yapısmda veriler, tek bir anahtara göre tutulur. Bu
+yöntemde herhangi bir kayıta ancak tüm kayıtlar taranmak suretiyle erişilebilmektedir. Bu yapısı üe sıralı dosyalama etkili çalışma ortamı sunmaz. Buna
+karşın, toplu girişlerin yapüdığı yöntem ucuzdur. Rastgele erişimli dosyalama
+11 Larry Long, a.g.e., s. 13.
+26 Bilgi Teknolojileri ve Örgütsel Değişim
+kayıtlara random olarak erişime olanak tanır. Bu yöntemde erişimi
+kolaylaştırmak üzere, her kayıta belirli bir disk adresi verilir. İndeksli olarak
+düzenlenen dosya yapısmda her kaydın disk adresini göstermek üzere yaratılan
+bir indeks tanımlanır. Bu indeks yardımıyla kayıtlara hem sıralı hem de rasgele
+erişim yapılabilmektedir.
+Dosya yönetiminde, oluşturulan veritabanın niteliğine bağh olarak birtakım
+> sorunlar yaşanabilmektedir. Bunlar arasında "veri bağımsızlığı", "veri tekrarı" ve
+"veri uyumsuzluğu" sayılabilir.28 Veri bağımsızlığı; verilerin her bir uygulama
+programına göre farklı yapıda düzenlenmesi sonucu, ortak bir veritabanı kullanımına olanak tanımaması durumunda, sorun yaratan bir unsur olmaktadır. Veri
+tekrarı; her bir uygulama programı için ayrı bir veritabanı oluşturulması, veritabanlannda kimi verilerin tekrarına neden olmaktadır. Örneğin personelin
+kimlik bilgileri hem muhasebe, hem de personel biriminde yaratılan veri tabanlarında yer alarak aynı verilerin birden fazla ortamda bulunmasına yol açmaktadır. Veri uyumsuzluğu; herhangi bir veri kaleminde bir değişiklik söz konusu
+olduğunda, birden fazla ortamda tutulan aynı verilerden yalnızca biri üzerinde bu
+değişikliği yapıp, diğerlerine yansıtmamaktan doğar.
+Verilerle ilgili tüm bu sorunları çözmek için, veritabanı yönetim sistemleri
+gehştirilmektedir. Bir veri tabam yönetim sistemi; verilerin standart bir yapıda
+saklanmasına ve standart bir yapıda erişilmesine olanak sağlayan yazılımlardır.
+Veritabanı yönetim sisteminde uygulama programlan ihtiyaçlan olan verileri
+doğrudan saklama üniteleri aracılığı ile elde etmezler. Öncelikle veritabanı
+yönetim sistemine başvururlar. Veritabanı yönetim sistemi veritabanmda yer alan
+verilere erişir ve uygulama programlarının kullanımına sunar. Bu nedenle
+veritabanı yönetim sistemi veri ve uygulama programlan arasmda faaliyet göstermektedir. Veritabanı yönetim sistemi yazılından çoğunlukla ticari firmalar
+tarafından geliştirilir.
+Bu yazılımlar çoğunlukla şu alt unsurlan içermektedir29 Veri Sözlüğü: Veri
+sözlüğünde bir veri tabam içindeki her elemanın adlan, tanımlan ve verilerin
+birbirleriyle hangi ilişki içinde olacağı yer alır. Veri tabam yöneticisi veri sözlüğünü kullanmak suretiyle, verileri uygun bir biçimde depolar. Böylece veri
+tekrarlan önlenebilmektedir. Veri Tanımlama Dili: Verilerin sözlükte uygun bir
+şekilde yer alabilmesi için gerekli olan dü, verilere erişimde de etkinlik sağlamaktadır. Veritabanlan üzerinde işlem yaparken, bu dile ait standart komutlar kullanılmaktadır. Teleişlemci Ekran; veritabanı ve uzak terminaller arasmda
+üetişimi yöneten bir yazılımdır. Uygulama Geliştirme Sistemleri;
+28 Robert Schultheis ve Mary Sumner, M anagem ent Inform ation System s:The M anager’s View, Southern
+Ilinois University at Edwardsville,Irwin 1989, s.204-207.
+29 a-k., s.209-210.
+Bilgi Toplumu ve Örgütlerde Bilgi Teknolojileri 27
+programcıların online olarak uygulama programlan geliştirmek üzere
+kullanabilecekleri bu sistemler, komutlar ve programlardan oluşur. Güvenlik
+Yazılımı; veri tabanlarım yetkili olmayan kullanıcılardan korumak üzere
+geliştirilen yazılımlardır. Arşivleme Sistemi, başansızlık durumunda verileri
+kurtarmak üzere veritabanlanm yemden çalıştırmak üzere harekete geçiren çeşitli
+tool'lardan oluşmaktadır. Raporlam a Sistemleri, kullanıcı ya da yöneticilere
+herhangi bir program yazmadan değişik şekillerde çıktılar üretmesini sağlar.
+Sorgulama Dilleri: Sorgulama dilleri veritabamndaki verilere erişmek üzere
+kullanılan komutlardan oluşmaktadır. Bu diller bir programcı yardımı olmadan
+yöneticilere, etkileşimli olarak veritabanlanndan ad hoc sorgulamalar yapmasına
+olanak sağlar. Sorgulama dillerine ömek olarak SQL (Structured Query
+Language) verilebilir. Sorgulama dilleri kullanıcılara kayıtlar ve veritabam süreci
+ile ilgili detaylı bilgi sahibi olmadan veritabamndaki bilgilere kolaylıkla erişmeye
+izin verir.
+Veritabam genel olarak ; ortak veri kullanımı, tekrar eden verilerde azalma,
+veri uyumluluğunu artırma, uygulama programcıları ve kullanıcıların verimliliğinde artış, etkili bir veri yönetim ve kontrolü ve kaynak olarak verilerin öneminde artış gibi avantajları sağlar. Bu avantajlarına karşın veri tabanları, aynı anda
+birden fazla erişimin yarattığı sorunları, mülkiyet, kaynak ve güvenlik sorunlarım
+da beraberinde getirmektedir:30
+Bir veri tabanına aynı anda birden fazla erişimin yapılması durumunda, eğer
+bu veri tabam çok kullanıcılar için tasarlanmamışsa güncellemede sorunlar ortaya çıkarır. Bu sorun ise kullanıcıların noksan bilgilerle karşılaşmasına neden
+olur. Bu durumu önlemek için, iki yol izlenebilir. Bunlardan biri, veri tabanına
+bir kullanıcı eriştiğinde sistemin bir başka kullanıcının isteğim karşılamaya
+kapalı tutulmasıdır. Diğeri ise, bir kullanıcı tarafından erişilen kaydın kilitlenerek
+diğer kullamcdara kapatılmasıdır. Diğer taraftan uygulamada örgütün bir işlevim
+yürütmek üzere bir bölümü tarafından yaratılan veri tabanlarım kendi bölümlerine mal ettikleri ve bu kaynağın tüm örgütün malı olduğu gerçeğini yok
+saydıkları görülmektedir. Ancak veri tabanının tüm örgüt için başardı hizmet
+sunabilmesi onun tüm örgütün malı olduğu kabul edilmelidir. Veri tabam yönetim sistemleri, örgütün tüm birimlerine hizmet sunmak üzere planlandığında bu
+birimlerin de bilgi teknolojileriyle donatılmalarım gündeme getirerek, yeni
+kaynaklara ihtiyacı gündeme getirir. Aynı şekilde veri tabam yönetiminde çözülmesi gereken bir başka önemli sorun da, veri güvenliğinin sağlanmasıdır. Örgütler sahip oldukları veri tabanlarında yapdacak her türlü değişikliği ve bunlara
+erişimi yetkili kişderin yapmasını sağlamak zorundadır. Aksi durumda önemli bir
+kaynak olan veri güvenliği tehlikeye girer.
+30 Robert Schultheis ve Sumner M., a.g.e, s.227-230.
+28 Bilgi Teknolojileri ve Örgütsel Değişim
+Bilgi toplumunun temel taşı olan veri ve bilgileri işleme ve yönetmede
+buraya kadar anlatılan yöntem ve modeller bilgi teknolojileri alanında yaşanan
+gelişmelerin ürünü olmuşlardır. Örgütlerin hayat damarları olan bilgi sistemlerinin ve bu sistemlere kolaylık sağlayan teknolojik araçların hangi aşamalardan
+geçerek günümüze geldiklerini ve bunların temelde hangi unsurlara sahip olduklarım bilmek; bilgi yaratma, yönetme ve kullanmada örgüt yöneticilerine
+rasyonel karar almada önemli bir alt yapı sunmaktadır.
